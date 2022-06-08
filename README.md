@@ -39,4 +39,4 @@ docker-compose up -d
 
 
 Документация API доступна после запуска пректа по эндпоинту
-'/docs/'# CommentTask
+'/docs/'
